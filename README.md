@@ -78,4 +78,4 @@ Finally it will show it on the screen.
 
 That is the precess I should take, but unexpectedly when I launch the program it detects an error and the program does not load me well.
 
-![Error Screenshot](https://github.com/adiaz92/ros_img_processor/tree/master/media/Error.png)
+![Error Screenshot](https://github.com/adiaz92/ros_img_processor/blob/master/media/Error.png)
